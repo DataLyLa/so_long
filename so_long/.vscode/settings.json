@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "so_long.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
